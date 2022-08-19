@@ -1,0 +1,2 @@
+C:\Users\akruckmeyer\Documents\Unreal Projects\Tantrumn\Intermediate\Build\Win64\UE4Editor\Development\Tantrumn\Definitions.Tantrumn.h
+C:\Users\akruckmeyer\Documents\Unreal Projects\Tantrumn\Source\Tantrumn\Tantrumn.h

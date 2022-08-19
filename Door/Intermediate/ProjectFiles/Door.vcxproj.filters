@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Door.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E7387869-841E-47D1-92B6-084F9ADBBEB1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Door.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DoorEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F9C4ED57-22E5-4B9C-94EB-42B7AB0E1E1F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Door">
+      <UniqueIdentifier>{743376B0-880C-41E7-B8A5-8241B22D8152}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Door\Door.Build.cs">
+      <Filter>Source\Door</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Door\Door.cpp">
+      <Filter>Source\Door</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Door\Door.h">
+      <Filter>Source\Door</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Door\DoorGameModeBase.cpp">
+      <Filter>Source\Door</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Door\DoorGameModeBase.h">
+      <Filter>Source\Door</Filter>
+    </ClInclude>
+    <Filter Include="Source\Door\Private">
+      <UniqueIdentifier>{8F3EA286-E39F-476D-A254-39E2BD7E3E4C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Door\Private\DoorInteractionComponent.cpp">
+      <Filter>Source\Door\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Door\Private\InteractableDoor.cpp">
+      <Filter>Source\Door\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Door\Public">
+      <UniqueIdentifier>{CC53EB02-9BBD-40E9-A38B-8C1356AEEF8D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Door\Public\DoorInteractionComponent.h">
+      <Filter>Source\Door\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Door\Public\InteractableDoor.h">
+      <Filter>Source\Door\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

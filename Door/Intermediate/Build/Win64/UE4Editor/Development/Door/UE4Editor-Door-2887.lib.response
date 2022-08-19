@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Door-2887.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\DoorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Development\Door\DoorInteractionComponent.cpp.obj"
+"C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Development\Door\InteractableDoor.cpp.obj"
+"C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Development\Door\Door.cpp.obj"
+"C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Development\Door\DoorGameModeBase.cpp.obj"
+"C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Development\Door\Door.init.gen.cpp.obj"
+"C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Development\Door\DoorGameModeBase.gen.cpp.obj"
+"C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Development\Door\DoorInteractionComponent.gen.cpp.obj"
+"C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Development\Door\InteractableDoor.gen.cpp.obj"
+"C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Development\Door\Default.rc2.res"
+/OUT:"C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Development\Door\UE4Editor-Door-2887.lib"

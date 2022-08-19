@@ -1,0 +1,7 @@
+C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Development\Door\Definitions.Door.h
+C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Source\Door\DoorGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Intermediate\Build\Win64\UE4Editor\Inc\Door\DoorGameModeBase.generated.h

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Tantrumn.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F3611E7A-973E-4060-BC5E-351D84C890FE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tantrumn.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TantrumnEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F7AD417A-E1F6-4D78-BB31-FADA24E09E57}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Tantrumn">
+      <UniqueIdentifier>{13FB2629-0D35-4F73-9A84-279F32197548}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tantrumn\Tantrumn.Build.cs">
+      <Filter>Source\Tantrumn</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Tantrumn\Tantrumn.cpp">
+      <Filter>Source\Tantrumn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tantrumn\Tantrumn.h">
+      <Filter>Source\Tantrumn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tantrumn\TantrumnGameModeBase.cpp">
+      <Filter>Source\Tantrumn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tantrumn\TantrumnGameModeBase.h">
+      <Filter>Source\Tantrumn</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+﻿  Building DoorEditor...
+  Using Visual Studio 2019 14.29.30145 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 20 processes...
+    [1/4] DoorInteractionComponent.cpp
+C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Source\Door\Private\DoorInteractionComponent.cpp(37): error C4551: function call missing argument list
+C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Source\Door\Private\DoorInteractionComponent.cpp(37): error C3867: 'UActorComponent::GetWorld': non-standard syntax; use '&' to create a pointer to member
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.27\Engine\Build\BatchFiles\Build.bat" DoorEditor Win64 Development -Project="C:\Users\akruckmeyer\Documents\Unreal Projects\Door\Door.uproject" -WaitMutex -FromMsBuild" exited with code 6.
